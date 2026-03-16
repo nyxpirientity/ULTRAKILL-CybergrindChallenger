@@ -50,12 +50,12 @@ namespace Nyxpiri.ULTRAKILL.CybergrindChallenger
 
             StandardChallenges = new List<string>
             {
-                "BRUTAL HECK", "MISCONFIGURED", "ULTRACARE", "NOW SWAP", "BAD GAME DESIGN", "PAINFULLY SALTY", "AA FORCERAD", "A LOOK IN THE MIRROR", "EVERYONE'S A BOOSTER",
+                "BRUTAL HECK", "ULTRACARE", "NOW SWAP", "PAINFULLY SALTY", "AA FORCERAD", "A LOOK IN THE MIRROR", "EVERYONE'S A BOOSTER",
             };
 
             IntenseChallenges = new List<string>
             {
-                "SSADISTIC HECK", "HECK SPECIAL", "STYLE ISSUE", "HEAT OF GREED", "TECH ISSUES", "COUNTER-COUNTER-ER", "ULTRASWAP",
+                "SSADISTIC HECK", "HECK SPECIAL", "STYLE ISSUE", "HEAT OF GREED", "COUNTER-COUNTER-ER", "ULTRASWAP",
             };
 
             if (!File.Exists(ChallengesConfigPath))
