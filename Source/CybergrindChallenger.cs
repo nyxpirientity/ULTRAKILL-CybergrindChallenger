@@ -13,7 +13,7 @@ namespace Nyxpiri.ULTRAKILL.CybergrindChallenger
         public const string CybergrindChallenger = "nyxpiri.cybergrind-challenger";
     }
     
-    [BepInPlugin("com.nyxpiri.bepinex.plugins.ultrakill.cybergrind-challenger", "Cybergrind Challenger", "0.0.0.1")]
+    [BepInPlugin("nyxpiri.ultrakill.cybergrind-challenger", "Cybergrind Challenger", "0.0.0.1")]
     [BepInProcess("ULTRAKILL.exe")]
     public class CybergrindChallenger : BaseUnityPlugin
     {
