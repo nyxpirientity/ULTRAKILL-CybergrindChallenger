@@ -31,7 +31,7 @@ namespace Nyxpiri.ULTRAKILL.CybergrindChallenger
                 {"GET UP ON THEIR BACK", new List<string>{HydraMode, HeatOfHeck}},
                 {"MISCONFIGURED", new List<string>{SelfConscience, BadGyro}},
                 {"ULTRACARE", new List<string>{GiveEnemiesFriends, BloodFueledEnemies}},
-                {"NOW SWAP",new List<string>{NyxLib.Cheats.SandAllEnemiesID, BloodFueledEnemies}},
+                {"NOW SWAP",new List<string>{NyxLib.Cheats.SandAllEnemies, BloodFueledEnemies}},
                 {"A LOOK IN THE MIRROR", new List<string>{ BloodFueledEnemies, FeedbackersForEveryone }},
                 {"EVERYONE'S A BOOSTER", new List<string>{ AggressiveAgony, FeedbackersForEveryone }},
                 {"BAD GAME DESIGN", new List<string>{ BadGyro, MundaneMurder }},
@@ -41,9 +41,9 @@ namespace Nyxpiri.ULTRAKILL.CybergrindChallenger
                 {"SSADISTIC HECK", new List<string>{ SaltyEnemies, SelfConscience, HeatOfHeck, AggressiveAgony }},
                 {"HECK SPECIAL", new List<string>{ SaltyEnemies, HeckPuppets, HeatOfHeck, AggressiveAgony }},
                 {"STYLE ISSUE", new List<string>{ SaltyEnemies, SelfConscience, HeatOfHeck, HeckPuppets }},
-                {"HEAT OF GREED", new List<string>{ NyxLib.Cheats.SandAllEnemiesID, BloodFueledEnemies, HeatOfHeck }},
+                {"HEAT OF GREED", new List<string>{ NyxLib.Cheats.SandAllEnemies, BloodFueledEnemies, HeatOfHeck }},
                 {"TECH ISSUES", new List<string>{ BadGyro, HeatOfHeck, SelfConscience }},
-                {"ULTRASWAP",new List<string>{NyxLib.Cheats.SandAllEnemiesID, BloodFueledEnemies, FeedbackersForEveryone}},
+                {"ULTRASWAP",new List<string>{NyxLib.Cheats.SandAllEnemies, BloodFueledEnemies, FeedbackersForEveryone}},
                 {"COUNTER-COUNTER-ER", new List<string>{ AggressiveAgony, FeedbackersForEveryone, HeatOfHeck }},
                 {"FURIOUS MITOSIS", new List<string>{ SaltyEnemies, HeatOfHeck, HydraMode }}
             };
